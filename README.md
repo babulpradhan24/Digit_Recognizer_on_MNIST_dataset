@@ -90,8 +90,8 @@ Prediction Analysis
 
 | Model | Accuracy |
 |--------|----------|
-| ANN | XX.XX% |
-| CNN | XX.XX% |
+| ANN    | 97.76% |
+| CNN    | 99.41%|
 
 
 ---
@@ -108,52 +108,45 @@ Handwritten-Digit-Classification-using-Deep-Learning/
 ```
 
 ---
+### Visuals
 
-## Visual Results
+<img width="966" height="990" alt="download" src="https://github.com/user-attachments/assets/ad40050f-e844-4cb0-8d2a-c2addf4ec20b" />
+
+
+---
 
 ### Model Architecture
 
-*(Insert Screenshot)*
+<img width="1247" height="3922" alt="architecture" src="https://github.com/user-attachments/assets/ef1bdbbe-f228-429e-a19f-c42e50209c18" />
 
 ---
 
 ### Accuracy Curve
-
-*(Insert Screenshot)*
+<img width="561" height="413" alt="accuracy vs val_accuracy" src="https://github.com/user-attachments/assets/4ad015f4-30a9-47ac-aec8-4e650cb44b3e" />
 
 ---
 
 ### Loss Curve
 
-*(Insert Screenshot)*
+<img width="561" height="413" alt="download (2)" src="https://github.com/user-attachments/assets/c11df705-0efe-40cb-bbda-ff9c73a29b7a" />
 
 ---
 
 ### Confusion Matrix
 
-*(Insert Screenshot)*
+<img width="658" height="547" alt="download (1)" src="https://github.com/user-attachments/assets/fc122700-b562-44d2-8c38-2eb442cb2f82" />
 
 ---
 
 ### Sample Predictions
 
-*(Insert Screenshot)*
+<img width="550" height="393" alt="MLP VS CNN" src="https://github.com/user-attachments/assets/23e47585-40c5-4765-98bd-dcb2c2ce1708" />
 
 ---
 
 ### Misclassified Images
 
-*(Insert Screenshot)*
-
----
-
-## Future Improvements
-
-- Hyperparameter tuning using Optuna
-- Transfer Learning
-- Explainable AI (Grad-CAM)
-- Streamlit Deployment
-- Real-time handwritten digit recognition
+<img width="966" height="990" alt="misclassified" src="https://github.com/user-attachments/assets/de40bfac-9eae-4a1f-aec6-7a90321ee860" />
 
 ---
 
